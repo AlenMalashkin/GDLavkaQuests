@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.QuestSystem.iml
+# Datasource local storage ignored files
+/../../../../../../:\UnityProjects\QuestSystem\.idea\.idea.QuestSystem\.idea/dataSources/
+/dataSources.local.xml

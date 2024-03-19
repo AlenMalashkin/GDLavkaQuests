@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e79941dc8484238b41e1ccc11199adf, type: 3}
+  m_Name: CollectItemsQuestConfig
+  m_EditorClassIdentifier: 
+  collectItemsQuests:
+  - _questName: Collect quest 1
+    _questDescription: Collect quest 1 description
+    _collectedItems: 3
+    _neededItems: 40
+  - _questName: Collect quest 2
+    _questDescription: Collect quest 2 description
+    _collectedItems: 5
+    _neededItems: 20
+  - _questName: Collect quest 3
+    _questDescription: Collect quest 3 description
+    _collectedItems: 30
+    _neededItems: 30
+  - _questName: Collect quest 4
+    _questDescription: Collect quest 4 description
+    _collectedItems: 10
+    _neededItems: 10
